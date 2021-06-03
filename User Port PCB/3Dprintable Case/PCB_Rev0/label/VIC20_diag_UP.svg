@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -14,7 +12,7 @@
    viewBox="0 0 210 297"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="VIC20_diag_UP.svg">
   <defs
      id="defs2">
@@ -58,19 +56,20 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.4342703"
+     inkscape:zoom="2.3481632"
      inkscape:cx="408.52944"
      inkscape:cy="488.64605"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="2560"
-     inkscape:window-height="1411"
-     inkscape:window-x="-9"
+     inkscape:window-width="2133"
+     inkscape:window-height="1171"
+     inkscape:window-x="2551"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
      showguides="false"
-     inkscape:guide-bbox="true">
+     inkscape:guide-bbox="true"
+     inkscape:document-rotation="0">
     <sodipodi:guide
        position="253.77903,6.1484929"
        orientation="0.70710678,0.70710678"
@@ -85,7 +84,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -94,7 +93,9 @@
      inkscape:groupmode="layer"
      id="layer1">
     <g
-       id="g23851">
+       id="g23851"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
       <path
          inkscape:connector-curvature="0"
          id="path5003"
@@ -104,10 +105,10 @@
          id="text5009-5-3-7"
          y="146.89441"
          x="153.97679"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:1;font-family:'Microgramma D Extended';-inkscape-font-specification:'Microgramma D Extended';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1;font-family:'Microgramma D Extended';-inkscape-font-specification:'Microgramma D Extended';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
          xml:space="preserve"><tspan
            id="tspan5033-4-6"
-           style="font-size:3.52777767px;text-align:center;text-anchor:middle;stroke-width:0.26458332"
+           style="font-size:3.52778px;text-align:center;text-anchor:middle;stroke-width:0.264583"
            y="146.89441"
            x="153.97679"
            sodipodi:role="line">Cassette</tspan></text>
@@ -116,7 +117,7 @@
          id="g6267">
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:1;font-family:'Microgramma D Extended';-inkscape-font-specification:'Microgramma D Extended';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1;font-family:'Microgramma D Extended';-inkscape-font-specification:'Microgramma D Extended';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
            x="82.734207"
            y="73.049393"
            id="text9446"><tspan
@@ -124,10 +125,10 @@
              id="tspan9444"
              x="82.734207"
              y="73.049393"
-             style="font-size:3.52777767px;stroke-width:0.26458332">Motor</tspan></text>
+             style="font-size:3.52778px;stroke-width:0.264583">Motor</tspan></text>
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:1;font-family:'Microgramma D Extended';-inkscape-font-specification:'Microgramma D Extended';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1;font-family:'Microgramma D Extended';-inkscape-font-specification:'Microgramma D Extended';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
            x="82.804764"
            y="67.836464"
            id="text9446-3"><tspan
@@ -135,7 +136,7 @@
              id="tspan9444-3"
              x="82.804764"
              y="67.836464"
-             style="font-size:3.52777767px;stroke-width:0.26458332">Sense</tspan></text>
+             style="font-size:3.52778px;stroke-width:0.264583">Sense</tspan></text>
       </g>
       <g
          transform="translate(78.979969,62.769737)"
@@ -278,7 +279,7 @@
                  id="g6334">
                 <text
                    xml:space="preserve"
-                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111112px;line-height:1;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
                    x="76.88813"
                    y="70.97702"
                    id="text6271"><tspan
@@ -286,10 +287,10 @@
                      id="tspan6269"
                      x="76.88813"
                      y="70.97702"
-                     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';text-align:end;text-anchor:end;stroke-width:0.26458332">MOT</tspan></text>
+                     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';text-align:end;text-anchor:end;stroke-width:0.264583">MOT</tspan></text>
                 <text
                    xml:space="preserve"
-                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111112px;line-height:1;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
                    x="62.426624"
                    y="71.016296"
                    id="text6281"><tspan
@@ -297,13 +298,13 @@
                      id="tspan6279"
                      x="62.426624"
                      y="71.016296"
-                     style="text-align:end;text-anchor:end;stroke-width:0.26458332">READ</tspan></text>
+                     style="text-align:end;text-anchor:end;stroke-width:0.264583">READ</tspan></text>
               </g>
               <g
                  id="g6328">
                 <text
                    xml:space="preserve"
-                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111112px;line-height:1;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
                    x="73.891586"
                    y="68.585808"
                    id="text6287"><tspan
@@ -311,10 +312,10 @@
                      id="tspan6285"
                      x="73.891586"
                      y="68.585808"
-                     style="stroke-width:0.26458332">WR</tspan></text>
+                     style="stroke-width:0.264583">WR</tspan></text>
                 <text
                    xml:space="preserve"
-                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111112px;line-height:1;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
                    x="62.447296"
                    y="68.595451"
                    id="text6304"><tspan
@@ -322,13 +323,13 @@
                      id="tspan6302"
                      x="62.447296"
                      y="68.595451"
-                     style="stroke-width:0.26458332">SENSE</tspan></text>
+                     style="stroke-width:0.264583">SENSE</tspan></text>
               </g>
               <g
                  id="g6340">
                 <text
                    xml:space="preserve"
-                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111112px;line-height:1;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
                    x="73.830956"
                    y="73.676758"
                    id="text6314"><tspan
@@ -336,10 +337,10 @@
                      id="tspan6312"
                      x="73.830956"
                      y="73.676758"
-                     style="stroke-width:0.26458332">GND</tspan></text>
+                     style="stroke-width:0.264583">GND</tspan></text>
                 <text
                    xml:space="preserve"
-                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111112px;line-height:1;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
                    x="62.334297"
                    y="73.667114"
                    id="text6322"><tspan
@@ -347,7 +348,7 @@
                      id="tspan6320"
                      x="62.334297"
                      y="73.667114"
-                     style="stroke-width:0.26458332">+5V</tspan></text>
+                     style="stroke-width:0.264583">+5V</tspan></text>
               </g>
             </g>
           </g>
@@ -546,7 +547,7 @@
         </g>
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888903px;line-height:1;font-family:'Microgramma D Extended';-inkscape-font-specification:'Microgramma D Extended Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;line-height:1;font-family:'Microgramma D Extended';-inkscape-font-specification:'Microgramma D Extended Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
            x="149.83109"
            y="123.71799"
            id="text22782"><tspan
@@ -554,11 +555,13 @@
              id="tspan22780"
              x="149.83109"
              y="123.71799"
-             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Microgramma D Extended';-inkscape-font-specification:'Microgramma D Extended Medium';stroke-width:0.26458332">Diagnostic</tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Microgramma D Extended';-inkscape-font-specification:'Microgramma D Extended Medium';stroke-width:0.264583">Diagnostic</tspan></text>
       </g>
     </g>
     <g
-       id="g28891">
+       id="g28891"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
       <path
          inkscape:connector-curvature="0"
          id="path4781"
@@ -798,7 +801,7 @@
          id="g17483">
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:1;font-family:'Microgramma D Extended';-inkscape-font-specification:'Microgramma D Extended';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1;font-family:'Microgramma D Extended';-inkscape-font-specification:'Microgramma D Extended';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
            x="-124.96167"
            y="94.861122"
            id="text5009-5-2"
@@ -806,11 +809,11 @@
              sodipodi:role="line"
              x="-124.96167"
              y="94.861122"
-             style="font-size:3.52777767px;text-align:center;text-anchor:middle;stroke-width:0.26458332"
+             style="font-size:3.52778px;text-align:center;text-anchor:middle;stroke-width:0.264583"
              id="tspan5033-5">Control</tspan></text>
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:1;font-family:'Microgramma D Extended';-inkscape-font-specification:'Microgramma D Extended';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1;font-family:'Microgramma D Extended';-inkscape-font-specification:'Microgramma D Extended';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
            x="-146.38544"
            y="94.861122"
            id="text5009-5-3-5"
@@ -818,17 +821,17 @@
              sodipodi:role="line"
              x="-146.38544"
              y="94.861122"
-             style="font-size:3.52777767px;text-align:center;text-anchor:middle;stroke-width:0.26458332"
+             style="font-size:3.52778px;text-align:center;text-anchor:middle;stroke-width:0.264583"
              id="tspan5033-4-1">Cassette</tspan></text>
       </g>
       <text
          id="text5009-2"
          y="121.76569"
          x="79.90435"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:1;font-family:'Microgramma D Extended';-inkscape-font-specification:'Microgramma D Extended';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1;font-family:'Microgramma D Extended';-inkscape-font-specification:'Microgramma D Extended';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
          xml:space="preserve"><tspan
            id="tspan5011-3"
-           style="font-size:3.52777767px;text-align:center;text-anchor:middle;stroke-width:0.26458332"
+           style="font-size:3.52778px;text-align:center;text-anchor:middle;stroke-width:0.264583"
            y="121.76569"
            x="79.90435"
            sodipodi:role="line">IEC-Port</tspan></text>
@@ -837,10 +840,10 @@
          id="text5009-5-3-0-4"
          y="54.366745"
          x="-140.80219"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:1;font-family:'Microgramma D Extended';-inkscape-font-specification:'Microgramma D Extended';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1;font-family:'Microgramma D Extended';-inkscape-font-specification:'Microgramma D Extended';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
          xml:space="preserve"><tspan
            id="tspan5033-4-4-5"
-           style="font-size:3.52777767px;text-align:center;text-anchor:middle;stroke-width:0.26458332"
+           style="font-size:3.52778px;text-align:center;text-anchor:middle;stroke-width:0.264583"
            y="54.366745"
            x="-140.80219"
            sodipodi:role="line">Keyboard</tspan></text>
@@ -1037,7 +1040,7 @@
         </g>
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888903px;line-height:1;font-family:'Microgramma D Extended';-inkscape-font-specification:'Microgramma D Extended Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;line-height:1;font-family:'Microgramma D Extended';-inkscape-font-specification:'Microgramma D Extended Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
            x="38.123917"
            y="102.67541"
            id="text22782-7"><tspan
@@ -1045,16 +1048,16 @@
              id="tspan22780-0"
              x="38.123917"
              y="102.67541"
-             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Microgramma D Extended';-inkscape-font-specification:'Microgramma D Extended Medium';stroke-width:0.26458332">Diagnostic</tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Microgramma D Extended';-inkscape-font-specification:'Microgramma D Extended Medium';stroke-width:0.264583">Diagnostic</tspan></text>
       </g>
       <text
          id="text5009-5-3-7-9"
          y="160.8488"
          x="79.419281"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:1;font-family:'Microgramma D Extended';-inkscape-font-specification:'Microgramma D Extended';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1;font-family:'Microgramma D Extended';-inkscape-font-specification:'Microgramma D Extended';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
          xml:space="preserve"><tspan
            id="tspan5033-4-6-8"
-           style="font-size:3.52777767px;text-align:center;text-anchor:middle;stroke-width:0.26458332"
+           style="font-size:3.52778px;text-align:center;text-anchor:middle;stroke-width:0.264583"
            y="160.8488"
            x="79.419281"
            sodipodi:role="line">User Port</tspan></text>
@@ -1263,7 +1266,7 @@
         </g>
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888903px;line-height:1;font-family:'Microgramma D Extended';-inkscape-font-specification:'Microgramma D Extended Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;line-height:1;font-family:'Microgramma D Extended';-inkscape-font-specification:'Microgramma D Extended Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
            x="72.680298"
            y="192.05806"
            id="text22782-7-6"><tspan
@@ -1271,7 +1274,7 @@
              id="tspan22780-0-3"
              x="72.680298"
              y="192.05806"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Microgramma D Extended';-inkscape-font-specification:'Microgramma D Extended Bold';stroke-width:0.26458332">Diagnostic Cartridge</tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Microgramma D Extended';-inkscape-font-specification:'Microgramma D Extended Bold';stroke-width:0.264583">Diagnostic Cartridge</tspan></text>
       </g>
     </g>
   </g>
