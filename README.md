@@ -5,7 +5,7 @@ This is a diagnostic  harness and the description of the diagnostic cartridge fo
 
 The Diagnostic Cartridge is based on the design for the <a href="https://github.com/svenpetersen1965/Commodore-VIC-20-Super-Expander-II">VIC-20 Super Expander II</a> design.
 
-Alternatively, the Hyper Expander Cartridge can be used as a Diagnostic cartridge, too. All RAM (except the BLK5 8K block) can be installed for the Diagnostic.  
+Alternatively, the <a href="https://github.com/svenpetersen1965/VIC-20-Hyper-Expander">Hyper Expander</a> Cartridge can be used as a Diagnostic cartridge, too. All RAM (except the BLK5 8K block) can be installed for the Diagnostic.  
 
 <img src="https://github.com/svenpetersen1965/VIC-20_Diagnostics/blob/main/Top%20Level%20Project/Rev.%200/Pictures/6391_-_diagnostic_cartridge%20.JPG" width="300" alt="Diagnostic Cartridge">
 
