@@ -1,14 +1,34 @@
 [Eagle]
-Version="09 05 02"
+Version="09 06 02"
 Platform="Windows"
 Globals="Globals"
 Desktop="Desktop"
 
 [Globals]
 AutoSaveProject=1
+UsedLibraryUrn="urn:adsk.eagle:library:88"
+UsedLibraryUrn="urn:adsk.eagle:library:203"
+UsedLibraryUrn="urn:adsk.eagle:library:204"
 UsedLibraryUrn="urn:adsk.eagle:library:205"
+UsedLibraryUrn="urn:adsk.eagle:library:206"
 UsedLibraryUrn="urn:adsk.eagle:library:207"
+UsedLibraryUrn="urn:adsk.eagle:library:208"
 UsedLibraryUrn="urn:adsk.eagle:library:209"
+UsedLibraryUrn="urn:adsk.eagle:library:210"
+UsedLibraryUrn="urn:adsk.eagle:library:211"
+UsedLibraryUrn="urn:adsk.eagle:library:212"
+UsedLibraryUrn="urn:adsk.eagle:library:213"
+UsedLibraryUrn="urn:adsk.eagle:library:214"
+UsedLibraryUrn="urn:adsk.eagle:library:215"
+UsedLibraryUrn="urn:adsk.eagle:library:237"
+UsedLibraryUrn="urn:adsk.eagle:library:80"
+UsedLibraryUrn="urn:adsk.eagle:library:81"
+UsedLibraryUrn="urn:adsk.eagle:library:82"
+UsedLibraryUrn="urn:adsk.eagle:library:83"
+UsedLibraryUrn="urn:adsk.eagle:library:84"
+UsedLibraryUrn="urn:adsk.eagle:library:85"
+UsedLibraryUrn="urn:adsk.eagle:library:86"
+UsedLibraryUrn="urn:adsk.eagle:library:87"
 UsedLibrary="X:/Eagle/Eagle9lib/!GRAFIK.lbr"
 UsedLibrary="X:/Eagle/Eagle9lib/!pownet.lbr"
 UsedLibrary="X:/Eagle/Eagle9lib/40XXSMD.LBR"
@@ -47,32 +67,16 @@ UsedLibrary="X:/Eagle/Eagle9lib/Texas_Instruments.lbr"
 UsedLibrary="X:/Eagle/Eagle9lib/Transistoren.lbr"
 UsedLibrary="X:/Eagle/Eagle9lib/logos.lbr"
 UsedLibrary="X:/Eagle/Eagle9lib/mech.lbr"
-UsedLibraryUrn="urn:adsk.eagle:library:88"
-UsedLibraryUrn="urn:adsk.eagle:library:203"
-UsedLibraryUrn="urn:adsk.eagle:library:204"
-UsedLibraryUrn="urn:adsk.eagle:library:206"
-UsedLibraryUrn="urn:adsk.eagle:library:208"
-UsedLibraryUrn="urn:adsk.eagle:library:210"
-UsedLibraryUrn="urn:adsk.eagle:library:211"
-UsedLibraryUrn="urn:adsk.eagle:library:212"
-UsedLibraryUrn="urn:adsk.eagle:library:213"
-UsedLibraryUrn="urn:adsk.eagle:library:214"
-UsedLibraryUrn="urn:adsk.eagle:library:215"
-UsedLibraryUrn="urn:adsk.eagle:library:237"
-UsedLibraryUrn="urn:adsk.eagle:library:80"
-UsedLibraryUrn="urn:adsk.eagle:library:81"
-UsedLibraryUrn="urn:adsk.eagle:library:82"
-UsedLibraryUrn="urn:adsk.eagle:library:83"
-UsedLibraryUrn="urn:adsk.eagle:library:84"
-UsedLibraryUrn="urn:adsk.eagle:library:85"
-UsedLibraryUrn="urn:adsk.eagle:library:86"
-UsedLibraryUrn="urn:adsk.eagle:library:87"
 
 [Win_1]
+Type="Control Panel"
+Number=0
+
+[Win_2]
 Type="Schematic Editor"
 Number=1
 File="VIC-20_Diag_Keyboard.sch"
-View="-14.285 -21.9658 327.468 217.135"
+View="56.8853 52.2958 171.337 132.37"
 WireWidths=" 0.0762 0.1016 0.127 0.15 0.2 0.2032 0.254 0.3048 0.4064 0.508 0.6096 0.8128 1.016 1.27 2.54 0.1524"
 PadDiameters=" 0.254 0.3048 0.4064 0.6096 0.8128 1.016 1.27 1.4224 1.6764 1.778 1.9304 2.1844 2.54 3.81 6.4516 0"
 PadDrills=" 0.2 0.25 0.3 0.35 0.4 0.45 0.5 0.55 0.65 0.7 0.75 0.8 0.85 0.9 1 0.6"
@@ -111,14 +115,14 @@ ArcDirection=0
 AddLevel=2
 PadsSameType=0
 Layer=95
-Views=" 1: -14.285 -21.9658 327.468 217.135"
+Views=" 1: 56.8853 52.2958 171.337 132.37"
 Sheet="1"
 
-[Win_2]
+[Win_3]
 Type="Board Editor"
 Number=2
 File="VIC-20_Diag_Keyboard.brd"
-View="-17.7914 -8.2538 33.5757 62.8006"
+View="-12.5229 -44.929 76.24 77.8534"
 WireWidths=" 0.0762 0.1016 0.127 0.15 0.2 0.254 0.3048 0.4064 0.508 0.6096 0.8128 1.016 1.27 2.54 0.1524 0.2032"
 PadDiameters=" 0.254 0.3048 0.4064 0.6096 0.8128 1.016 1.27 1.4224 1.6764 1.778 1.9304 2.1844 2.54 3.81 6.4516 0"
 PadDrills=" 0.2 0.25 0.3 0.35 0.4 0.45 0.5 0.55 0.65 0.7 0.75 0.8 0.85 0.9 1 0.6"
@@ -157,10 +161,6 @@ ArcDirection=0
 AddLevel=2
 PadsSameType=0
 Layer=21
-
-[Win_3]
-Type="Control Panel"
-Number=0
 
 [Desktop]
 Screen="3840 1440"
