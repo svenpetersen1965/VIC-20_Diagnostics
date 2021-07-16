@@ -11,4 +11,6 @@ Alternatively, the <a href="https://github.com/svenpetersen1965/VIC-20-Hyper-Exp
 
 The general description of the VIC-20 Diagnostics can be found in the "Top-Level Project" folder.
 
+The Rev. 1 of the User Port PCB just has a reduced part count.and a new logo.
+
 Please also refer to <a href="http://tech.guitarsite.de/vic-20_diagnostics.html">my website</a>
