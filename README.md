@@ -13,4 +13,6 @@ The general description of the VIC-20 Diagnostics can be found in the "Top-Level
 
 The Rev. 1 of the User Port PCB just has a reduced part count.and a new logo.
 
+Please find the (C64) cassette port adapter <a href="https://github.com/svenpetersen1965/C64-Diagnostic-Rev.-586220-Harness/tree/master/Diag586220_Harness/Diag586220_Cassette_Port">here</a>.
+
 Please also refer to <a href="http://tech.guitarsite.de/vic-20_diagnostics.html">my website</a>
